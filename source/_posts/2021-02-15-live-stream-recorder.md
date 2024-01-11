@@ -51,5 +51,5 @@ tags:
 
 ## 软件说明书
 
-[视频流录制软件说明书](/docs/live-stream-recorder-help)
+[视频流录制软件说明书](/流媒体/live-stream-recorder-help)
 

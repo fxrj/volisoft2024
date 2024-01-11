@@ -52,7 +52,7 @@ tags:
 
 ## 更新内容
 
-[查看](/docs/draw-designer-update/)
+[查看](/抽奖程序/draw-designer-update/)
 
 ## 使用说明
 
