@@ -43,9 +43,9 @@ menu:
 # 站点运行开始时间.
 time:
   enable: true
-  year: 2003 # 年份
-  month: 08 # 月份
-  date: 29 # 日期
+  year: 2004 # 年份
+  month: 01 # 月份
+  date: 12 # 日期
   hour: 00 # 小时
   minute: 00 # 分钟
   second: 00 # 秒
@@ -205,7 +205,7 @@ clicklove:
 profile:
   avatar: /medias/avatar.jpg
   career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  introduction: 飞翔软件（Volisoft）于2001年8月开始筹备，其前身是 Honux 从2001年2月开始构建于免费空间上的个人主页，之后网站几经易名。2004年1月12日，Volisoft 正式开通。Volisoft 建站的初衷是将 Honux 的原创软件和心得体会公布出来与大家分享，并提供必要的服务支持。该网站是 Honux 成长战略中的一个重要角色，同时也是国产软件阵营的又一阵地。
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
