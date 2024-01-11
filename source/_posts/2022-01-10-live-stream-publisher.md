@@ -46,5 +46,5 @@ tags:
 
 ## 软件说明书
 
-[多路推流软件说明书](/docs/live-stream-publisher-help)
+[多路推流软件说明书](/流媒体/live-stream-publisher-help)
 
