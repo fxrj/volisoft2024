@@ -2,6 +2,8 @@
 layout: post
 title: 媒体文件转码上传系统
 author: 贺斌
+date: 2013-03-15 16:30:21
+img: /images/featureImages/媒体文件转码上传系统.jpg
 categories: 多媒体
 tags:
  - 媒体文件

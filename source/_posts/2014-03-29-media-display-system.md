@@ -2,6 +2,8 @@
 layout: post
 title: 多媒体展示系统
 author: 贺斌
+date: 2014-03-29 16:30:21
+img: /images/featureImages/多媒体展示系统.jpg
 categories: 多媒体
 tags:
  - 多媒体
