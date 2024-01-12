@@ -47,7 +47,7 @@ tags:
 
 ## 软件下载
 
-<a href="javascript:alert('请联系作者！');">标准版</a> \| <a href="javascript:alert('请联系作者！');">增强版</a> 
+<a href="javascript:alert('请联系作者！');" target="_self">标准版</a> \| <a href="javascript:alert('请联系作者！');" target="_self">增强版</a> 
 
 ## 软件说明书
 
