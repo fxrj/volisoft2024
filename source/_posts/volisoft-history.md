@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Volisoft 大事记
+img: /images/featureImages/volisoft.jpg
 categories: docs
 date: 2024-01-14
 hidden: true
