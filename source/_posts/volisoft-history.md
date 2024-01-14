@@ -11,7 +11,7 @@ hidden: true
 - `2024.01.11`   Volisoft 正式归来，使用 hexo 开源模板，部署在 Vercel 。
 - `2023.06.21`   注册 volisoft.top 域名，iHonux's Project 在 Vercel 建立镜像。
 - `2022.04.10`   iHonux's Project 网站建立，使用 jekyll 开源模板，部署在 GitHub ，作为 Volisoft 某种形式的替代。
-- `2014.02.18`   Volisfot 采用 WordPress 开源程序。
+- `2014.02.18`   Volisoft 采用 WordPress 开源程序。
 - `2012.12.12`   Volisoft 更新网站模板，对产品页进行全新包装。
 - `2011.12.12`   飞翔软件使用 Volisoft 标识，更新网站风格，继续仿当年微软网站设计。
 - `2006.03.26`   正式更名为“飞翔软件”，迁移到付费虚拟空间。
