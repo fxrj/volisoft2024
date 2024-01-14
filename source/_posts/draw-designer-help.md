@@ -126,7 +126,7 @@ hidden: true
 
 ### 2.5 远程遥控
 
-使用方法参见《[如何通过平板电脑远程遥控抽奖程序？](../draw-designer-how-to-remote-control/)》一文。
+使用方法参见《[如何通过平板电脑远程遥控抽奖程序？](/抽奖程序/draw-designer-how-to-remote-control/)》一文。
 
 
 ## 3. 界面设计
