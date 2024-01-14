@@ -26,7 +26,7 @@ hidden: true
 
 ### 1.1 数据源设置
 
-点击 <span style="background-image: url(/images/draw-designer-help/project_config.png); background-size: cover; width: 16px; height: 16px; display: inline-block;"></span> 按钮，打开『工程设置』窗口，选择『数据源』标签，设置数据源。详见「工程设置」部分。
+点击 <span style="background-image: url(/images/draw-designer-help/project_config.png); background-size: cover; width: 16px; height: 16px; display: inline-block;"></span> 按钮，打开『工程设置』窗口，选择『数据源』标签，设置数据源。详见[「工程设置」](#project_config)部分。
 
 ![](/images/draw-designer-help/dd_prjcfg_ds.png)
 
@@ -52,7 +52,7 @@ hidden: true
 
 
 
-## 2. 工程设置
+## 2. 工程设置<span id="project_config"> </span>
 
 点击 <span style="background-image: url(/images/draw-designer-help/project_config.png); background-size: cover; width: 16px; height: 16px; display: inline-block;"></span> 按钮，打开『工程设置』窗口，对工程进行设置。
 
