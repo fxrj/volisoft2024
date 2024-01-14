@@ -6,7 +6,7 @@ author: 贺斌
 tags: 
  - 推流
  - 直播
- - 流媒体,
+ - 流媒体
  - SRT
  - RTMP
  - ffmpeg
