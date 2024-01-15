@@ -18,10 +18,10 @@ tags:
 
 
 `效果图1：`
-<img src="/images/vr-hall-volisoft-1.png" alt="飞翔软件VR虚拟现实展厅-图1" />
+<img src="/images/vr-hall-volisoft-1.png" alt="飞翔软件VR虚拟现实展厅 图1" />
 
 `效果图2：`
-<img src="/images/vr-hall-volisoft-2.png" alt="飞翔软件VR虚拟现实展厅-图2" />
+<img src="/images/vr-hall-volisoft-2.png" alt="飞翔软件VR虚拟现实展厅 图2" />
 
 `效果图3：`
-<img src="/images/vr-hall-volisoft-3.png" alt="飞翔软件VR虚拟现实展厅-图3" />
+<img src="/images/vr-hall-volisoft-3.png" alt="飞翔软件VR虚拟现实展厅 图3" />
