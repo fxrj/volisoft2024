@@ -2,18 +2,18 @@
     "avatar": "/images/website/dnbwg.png",
     "name": "电脑博物馆",
     "introduction": "一个在线交互式的计算机博物馆，在网页模拟器中重现电脑发展史。时空流转，沧海桑田，物是人非，那些程序代码依然在跳动着。",
-    "url": "https://dnbwg.ihonux.com",
+    "url": "https://retromuseum.org",
     "title": "前去学习"
 }, {
     "avatar": "/images/website/cpu-museum.jpg",
     "name": "CPU博物馆",
     "introduction": "一个致力于传承和推广CPU文化的非盈利性项目，旨在让更多的人了解CPU的魅力和价值，感受人类发展史上最顶尖的发明。",
-    "url": "https://cpu.ihonux.com",
+    "url": "https://cpu.retromuseum.org",
     "title": "前去学习"
 }, {
     "avatar": "/images/website/ihonux-projects.png",
     "name": "iHonux's Projects",
-    "introduction": "一个展示 Honux 所开发的主要软件作品的个人网站。感受他对技术和创新的热情和专注。",
+    "introduction": "一个记录 Honux 所开发的主要软件作品的个人网站。感受他对技术的热情和对创新的热爱。",
     "url": "http://www.ihonux.com/",
     "title": "前去学习"
 }, {
