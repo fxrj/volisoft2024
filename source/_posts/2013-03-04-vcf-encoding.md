@@ -55,3 +55,7 @@ tags:
 　　至此，完成了 VCF 文件的重新编码。
 
 　　`提示：支持通过从名片列表向资源管理器拖拽的方式快速输出 VCF 文件（采用默认设置）。`
+
+## 3、软件下载
+
+[2.0](https://pan.baidu.com/s/1uK0Hu8D3ugzplhk2NFdZyA?pwd=5575) \| [1.0](https://pan.baidu.com/s/1lCk2i-SXB9a6ycp6ov53xw?pwd=e81n)
