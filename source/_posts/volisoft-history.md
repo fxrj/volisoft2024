@@ -3,7 +3,7 @@ layout: post
 title: Volisoft 大事记
 img: /images/featureImages/volisoft.jpg
 categories: docs
-date: 2024-01-14
+date: 2026-10-01
 hidden: true
 ---
 
@@ -23,7 +23,8 @@ hidden: true
 
 ## Volisoft 大事记
 
-- `2025.04`      生成式AI创作平台
+- `2026.08`      PublisherHUB 多平台视频发布工具
+- `2025.04`      AIGC创作平台
 - `2025.02`      票房数据统计系统
 - `2022.02`      视频直播云平台 V3.0
 - `2022.01`      多路推流软件(Live Stream Publisher)
