@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PublisherHUB 多平台视频发布工具
+title: 多平台视频发布工具
 author: Honux
 date: 2026-08-16 18:00:00
 img: /images/featureImages/PublisherHUB.jpg
@@ -13,15 +13,15 @@ tags:
  - C/S
 ---
 
-多平台视频批量 AI 发布工具 —— 一次上传，多平台智能分发。AI 赋能标题优化，人工审核 / 一键自动双模式，让视频发布效率提升 10 倍。
+PublisherHUB 多平台视频批量 AI 发布工具 —— 一次上传，多平台智能分发。AI 赋能标题优化，人工审核 / 一键自动双模式，让视频发布效率提升 10 倍。
 
-<img src="../images/PublisherHUB.png" alt="PublisherHUB 任务发布界面" />
+<img src="/images/PublisherHUB.png" alt="PublisherHUB 任务发布界面" />
 
 ## 核心功能特点
 
 围绕"多、快、好、省"打造的发布工作流。
 
-### 📡 多平台批量分发
+#### 📡 多平台批量分发
 一次上传视频，向 15+ 主流视频 / 内容平台批量发布，告别逐平台手动操作的繁琐。
 
 #### ⚙️ 双发布模式
